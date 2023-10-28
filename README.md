@@ -1,2 +1,2 @@
 # My-Cool-Places
-Simple Android Kotlin App Geo Tag List app
+Simple Android Kotlin Geo Tag List App
